@@ -10,4 +10,4 @@ pool:
   name: 'default'
 
 steps:
-- pwsh: write-host "hello"
+- powershell: write-host "hello"
